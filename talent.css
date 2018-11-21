@@ -15,6 +15,10 @@ img {
 	border: none;
 }
 
+div {
+	line-height: 1.5;
+}
+
 /*=======================================================
 	Global Hyperlink Control
 =======================================================*/
@@ -33,6 +37,24 @@ a.aWhite:hover {
 }
 
 a.aWhite:active {
+    color: #FF0066;
+}
+
+a.aWhite12{
+	text-decoration: none;
+	font-family:Arial;
+	font-size:12pt;
+}
+
+a.aWhite12:link, a.aWhite12:visited {
+	color: #FFFFFF;
+}
+
+a.aWhite12:hover {
+	color: #FF0066;
+}
+
+a.aWhite12:active {
     color: #FF0066;
 }
 

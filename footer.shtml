@@ -1,0 +1,18 @@
+	<tr  class="content">
+		<td  colspan="2">
+			<hr>
+		</td>
+	</tr>
+    <tr>
+		<td class="footer" colspan="3" height="80" background="pic/footer.gif">
+			<Div class="center">
+            	Copyright © 2010. All rights reserved.
+                <br>
+				<a class="aWhite" target="_blank" href="http://www.cs.uga.edu">Computer Science Department</a> &#8226; <a class="aWhite" target="_blank" href="http://www.uga.edu">The University of Georgia</a> &#8226; Athens, GA 30602, USA
+				<br>
+				<a class="aWhite" href="mailto:manchonu@cs.uga.edu?subject=Query from Homepage."><img src="pic/email.png" width="25"></a> <a class="aWhite" href="http://www.facebook.com/kevin.mc.u"><img src="pic/facebook.png" width="25"></a>	
+                <br>
+                             
+			</Div>	
+		</td>
+	</tr>
