@@ -33,11 +33,11 @@ a.aWhite:link, a.aWhite:visited {
 }
 
 a.aWhite:hover {
-	color: #FF0066;
+	color: #FFDF00;
 }
 
 a.aWhite:active {
-    color: #FF0066;
+    color: #FFDF00;
 }
 
 a.aWhite12{
@@ -51,11 +51,11 @@ a.aWhite12:link, a.aWhite12:visited {
 }
 
 a.aWhite12:hover {
-	color: #FF0066;
+	color: #FFDF00;
 }
 
 a.aWhite12:active {
-    color: #FF0066;
+    color: #FFDF00;
 }
 
 a.aBlack{
@@ -69,11 +69,11 @@ a.aBlack:link, a.aBlack:visited {
 }
 
 a.aBlack:hover {
-	color: #FF0066;
+	color: #FFDF00;
 }
 
 a.aBlack:active {
-    color: #FF0066;
+    color: #FFDF00;
 }
 
 a.aBlue{
@@ -83,16 +83,16 @@ a.aBlue{
 }
 
 a.aBlue:link, a.aBlue:visited {
-	color: #3333FF;
+	color: #8A2BE2;
 }
 
 a.aBlue:hover {
-	color: #FF0066;
+	color: #FFDF00;
 	text-decoration: underline;
 }
 
 a.aBlue:active {
-    color: #FF0066;
+    color: #FFDF00;
 }
 
 
@@ -121,7 +121,11 @@ tr, td
 }
 
 .dBlue{
-	color:#333399;
+	color:#4B0082;
+}
+
+.gold{
+	color:#FFDF00;
 }
 
 .bgRed{
