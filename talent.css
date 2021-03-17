@@ -8,7 +8,8 @@
 =======================================================*/
 html, body {
 	height: 100%;
-    background-image:url(pic/back.gif);
+    #background-image:url(pic/back.gif);
+    background-color:#555555;
 }
 
 img {
@@ -122,6 +123,10 @@ tr, td
 
 .dBlue{
 	color:#4B0082;
+}
+
+.royalBlue{
+	color:#111E6C;
 }
 
 .gold{
